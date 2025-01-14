@@ -62,4 +62,4 @@ The project highlights the complexity of stock price prediction in volatile mark
 ## Technical Resources
 
 - YouTube videos on LSTM forecasting
-- GitHub Repository: [GME Stock Prediction](https://github.com/colton-lapp/GMEStockPrediction/tree/main)
+
