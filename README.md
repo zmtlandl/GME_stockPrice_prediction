@@ -59,6 +59,12 @@ The project highlights the complexity of stock price prediction in volatile mark
 - Financial data: Yahoo Finance API
 - Sentiment analysis: Reddit discussion data
 
+## Datasets
+- Historical Stock Price: Yahoo Finance (accessed programmatically via yfinance in Python)
+   January 4th, 2021 - August 31st, 2021
+- Reddit Sentiment: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TUMIPC (rGME_dataset_features.csv)
+   January 4th, 2021 - December 31st, 2021
+
 ## Technical Resources
 
 - YouTube videos on LSTM forecasting
