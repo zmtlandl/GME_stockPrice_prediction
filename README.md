@@ -45,7 +45,7 @@ The project highlights the complexity of stock price prediction in volatile mark
 
 ## Future Work
 
-- Explore alternative neural network architectures.
+- Explore alternative neural network architecture.
 - Improve sentiment feature extraction and engineering.
 - Investigate long-term stock price prediction rather than focusing solely on short-term events.
 - Address ethical implications of sentiment-driven financial forecasting.
